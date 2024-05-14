@@ -4,7 +4,7 @@ let bookmarkButton = document.getElementById("bookmark-button");
 let resetButton = document.getElementById("reset-button");
 let bookmarkedQuotes = [];
 let quote = [
-    '"The only way to do great work is to love what you are doing" - Albert Schweitzer.',
+    '"The only kway to do great work is to love what you are doing" - Albert Schweitzer.',
     '"The best revenge is to be unlike him who performed the injury" - Marcus Aurelius.',
     '"To be yourself is all that you can do" - Chris Cornell.',
     '"The greatest wealth is to live content with little" - Plato.',
