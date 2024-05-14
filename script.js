@@ -12,7 +12,7 @@ let quote = [
     '"The harder I work, the luckier I get" - Samuel Goldwyn.',
     '"The only thing that is constant is change" - Heractus.',
     '"It is not what happens to you, but how you react to it that matters" - Epictetus.',
-    '"In three words I can sum up everything I have learned about life: it goes on" - Robert Frost.',
+    '"In three words I can sum up everything I have _learned about life: it goes on" - Robert Frost.',
     '"The only thing you cannot afford to do is nothing" - Robert Kiyosaki.',
     '"Dont count the days, make the days count" - Muhammad Ali.',
     '"The only way to do great work is to love what you do" - Steve Jobs.',
