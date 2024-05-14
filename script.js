@@ -10,7 +10,7 @@ let quote = [
     '"The greatest wealth is to live content with little" - Plato.',
     '"Life is really simple, but we insist on making it complicated" - Confucius.',
     '"The harder I work, the luckier I get" - Samuel Goldwyn.',
-    '"The only thing that is constant is change" - Heraclitus.',
+    '"The only thing that is constant is change" - Heractus.',
     '"It is not what happens to you, but how you react to it that matters" - Epictetus.',
     '"In three words I can sum up everything I have learned about life: it goes on" - Robert Frost.',
     '"The only thing you cannot afford to do is nothing" - Robert Kiyosaki.',
