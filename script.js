@@ -19,7 +19,7 @@ let quote = [
     '"The best revenge is massive success" - Frank Sinatra.',
     '"The only thing that is constant is change" - Heraclitus.',
     '"The only thing you cannot afford to do is nothing" - Robert Kiyosaki.',
-    '"I have not failed. I have just found 10,000 ways that will not work" - Thomas A. Edison.',
+    '"I have not failed. I hav just found 10,000 ways that will not work" - Thomas A. Edison.',
     '"You miss 100% of the shots you dont take" - Wayne Gretzky.',
     '"It always seems impossible until it is done" - Nelson Mandela.',
     '"The only thing we have to fear is fear itself" - Franklin D. Roosevelt.',
